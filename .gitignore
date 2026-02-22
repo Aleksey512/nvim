@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 tt.*
 .tests
 doc/tags
@@ -48,5 +47,3 @@ luac.out
 *.i*86
 *.x86_64
 *.hex
-
->>>>>>> a8cdfb9af12fe888f298eafcb316981f7fa38a25
